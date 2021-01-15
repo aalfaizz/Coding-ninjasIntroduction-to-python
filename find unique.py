@@ -1,7 +1,7 @@
 n = int(input())
 list1 = []
 i = 0
-while i<n:
+while i<2*n+1:
     curr = int(input())
     list1.append(curr)
     i = i + 1
